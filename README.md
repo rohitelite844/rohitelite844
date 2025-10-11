@@ -1,5 +1,5 @@
 
-# Hi there, I'm [ Rohitt ] 👋  
+# Hi there, I'm [ Rohit ] 👋  
 
 💻 Full Stack Developer (Beginner) | ☕ Java Enthusiast | 🤖 Exploring AI Basics  
 
