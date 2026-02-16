@@ -1,57 +1,68 @@
+# Hi 👋 I'm Rohit Ingle
 
-# Hi there, I'm [ Rohit ] 👋  
-
-💻 Full Stack Developer (Beginner) | ☕ Java Enthusiast | 🤖 Exploring AI Basics  
-
-I'm passionate about building web applications, learning new technologies, and exploring how AI can be integrated into real-world solutions.  
-
----
-
-## 🛠️ Tech Stack & Tools
-- **Languages:** Java, JavaScript, Python (Basic)  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Java (Spring Boot), Node.js (Basic)  
-- **Databases:** MySQL, MongoDB (Basic)   
-- **Others:** Git, GitHub, REST APIs, Docker (Basic)  
+💻 Java Backend Developer | Full Stack Web Developer  
+🚀 Passionate about building scalable, secure, and real-world web applications  
+📍 Nagpur, India  
 
 ---
 
-## 📂 My Projects
-| Project Name                                      | Description                                   | Tech Used                     | Link                            |
-|---------------------------------------------------|-----------------------------------------------|-------------------------------|---------------------------------|
-| Portfolio Website                                 | My personal portfolio website                 | HTML, CSS, JavaScript         | [View Project](#)               |
-| Ai- Enabled Solar Power Generation Predictor      | Simple CRUD app with user authentication      | HTML5,CSS3,Javascrip,Node.js. | [View Project](#)               |
-| Hotel Management System                           | Basic ML model to detect spam messages        | Python, Scikit-learn          | [View Project](#)               |
+## 👨‍💻 About Me
+
+I am a detail-oriented Java developer with hands-on experience in building dynamic web applications using Core Java, Advanced Java, JDBC, Servlets, JSP, Hibernate, and MySQL.
+
+I focus on writing clean, maintainable, and scalable code following MVC architecture and Object-Oriented Programming principles. I enjoy solving real-world problems and continuously improving my backend development skills.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
+## 🛠️ Tech Stack
+
+**Backend:**  
+Java (Core & Advanced), JDBC, Servlets, JSP, Hibernate ORM  
+
+**Database:**  
+MySQL  
+
+**Frontend:**  
+HTML, CSS, JavaScript  
+
+**Concepts & Architecture:**  
+OOP (Encapsulation, Inheritance, Abstraction, Polymorphism)  
+MVC Architecture  
+Exception Handling  
+Input Validation  
 
 ---
 
-## 📫 Connect with Me
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/rohit-ingle-67b490372)  
-- **Portfolio:** [Your Website](#)  
-- **Email:** rohitingle126@gmail.com
+## 🔥 Featured Projects
+
+### 📌 Student QR Management System
+Secure web-based attendance system preventing proxy and duplicate submissions using Geolocation API and real-time data storage integration.
+
+### 📌 Smart CV Creator
+Web-based resume builder allowing users to create and download ATS-friendly resumes with responsive UI design.
 
 ---
 
-⭐️ *"Learning by building, one project at a time!"*
+## 💼 Experience
 
-<!--
-**rohitelite844/rohitelite844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer Intern – Asterisc Technocrat**  
+- Designed scalable MySQL database architecture  
+- Built dynamic web applications using Servlets & JSP  
+- Implemented optimized CRUD operations using JDBC  
+- Applied OOP principles for modular development  
+- Integrated Hibernate for efficient database interaction  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Currently Working On
+
+- Enhancing backend architecture skills  
+- Improving Data Structures & Algorithms  
+- Building real-world Java-based applications  
+
+---
+
+## 📫 Let's Connect
+
+📧 Email: rohitingle126@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/rohit-ingle-a6065237a/  
